@@ -9,4 +9,4 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
 
 mensaje:
-  texto: Configuración ACTUALIZADA en config-repo para Categoría Service
+  texto: Configuración obtenida desde Config Server para Categoría Service
